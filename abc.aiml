@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<category>
+<pattern>HI I AM RADHIKA</pattern>
+<template>Hello!</template>
+</category>
+<category>
+<pattern>I LIKE WATCHING MOVIES</pattern>
+<template>I too like watching movies</template>
+</category>
+<category>
+<pattern>FRICTIONAL MOVIES ARE NICE TO WATCH</pattern>
+<template> watching good  movies refreshes our mind</template>
+</category>
+<category>
+<pattern>ARE YOU A HUMAN</pattern>
+<template>No! I am a human made bot</template>
+</category>
+<category>
+<pattern>WHO IS ALBERT EINSTEIN</pattern>
+<template>Albert Einstein was a german physicst</template>
+</category>
+<category>
+<pattern>THANK YOU</pattern>
+<template>pleasure is mine</template>
+</category>
+<category>
+<pattern>WHAT IS YOUR NAME</pattern>
+<template>I am Elsa! A chatbox based on ALICE</template>
+</category>
+<category>
+<pattern>OFFICE</pattern>
+<template>A place where people work</template>
+</category>
+<category>
+<pattern>ARE YOU THERE</pattern>
+<template>Hey! Elsa is here</template>
+</category>
+<category>
+<pattern>BYE</pattern>
+<template>Goodbye!</template>
+</category>
+<category>
+<pattern>INTERESTS</pattern>
+<template>DO YOU MEAN OPTIONS: INTERESTS I LIKE WATCHING MOVIES,WHAT IS YOUR NAME?</template>
+</category>
+<category>
+<pattern>* INTERESTS</pattern>
+<template><srai>INTERESTS</srai></template>
+</category>
+
+<category>
+<pattern>INTERESTS *</pattern>
+<template><srai>INTERESTS</srai></template>
+</category>
+
+<category>
+<pattern>* INTERESTS *</pattern>
+<template><srai>INTERESTS</srai></template>
+</category>
+
+<category>
+<pattern>KNOWLEDGE</pattern>
+<template>DO YOU MEAN OPTIONS: KNOWLEDGE ARE YOU A HUMAN?</template>
+</category>
+<category>
+<pattern>* KNOWLEDGE</pattern>
+<template><srai>KNOWLEDGE</srai></template>
+</category>
+
+<category>
+<pattern>KNOWLEDGE *</pattern>
+<template><srai>KNOWLEDGE</srai></template>
+</category>
+
+<category>
+<pattern>* KNOWLEDGE *</pattern>
+<template><srai>KNOWLEDGE</srai></template>
+</category>
+
+<category>
+<pattern>DISCUSSION</pattern>
+<template>DO YOU MEAN OPTIONS: DISCUSSION FRICTIONAL MOVIES ARE NICE TO WATCH</template>
+</category>
+<category>
+<category>
+<pattern>DISCUSSION *</pattern>
+<template><srai>DISCUSSION</srai></template>
+</category>
+
+<category>
+<pattern>* DISCUSSION *</pattern>
+<template><srai>DISCUSSION</srai></template>
+</category>
+
+<category>
+<pattern>WORK</pattern>
+<template>DO YOU MEAN OPTIONS: WORK OFFICE</template>
+</category>
+<category>
+<pattern>* WORK</pattern>
+<template><srai>WORK</srai></template>
+</category>
+
+<category>
+<pattern>WORK *</pattern>
+<template><srai>WORK</srai></template>
+</category>
+
+<category>
+<pattern>* WORK *</pattern>
+<template><srai>WORK</srai></template>
+</category>
+
+<category>
+<pattern>GREETING</pattern>
+<template>DO YOU MEAN OPTIONS: GREETING HI!I AM RADHIKA,THANK YOU,BYE</template>
+</category>
+<category>
+<pattern>* GREETING</pattern>
+<template><srai>GREETING</srai></template>
+</category>
+
+<category>
+<pattern>GREETING *</pattern>
+<template><srai>GREETING</srai></template>
+</category>
+
+<category>
+<pattern>* GREETING *</pattern>
+<template><srai>GREETING</srai></template>
+</category>
+
+<category>
+<pattern>QUERY</pattern>
+<template>DO YOU MEAN OPTIONS: QUERY ARE YOU THERE?</template>
+</category>
+<category>
+<pattern>* QUERY</pattern>
+<template><srai>QUERY</srai></template>
+</category>
+
+<category>
+<pattern>QUERY *</pattern>
+<template><srai>QUERY</srai></template>
+</category>
+
+<category>
+<pattern>* QUERY *</pattern>
+<template><srai>QUERY</srai></template>
+</category>
+
+<category>
+<pattern>GK</pattern>
+<template>DO YOU MEAN OPTIONS: GK WHO IS ALBERT EINSTEIN</template>
+</category>
+<category>
+<pattern>* GK</pattern>
+<template><srai>GK</srai></template>
+</category>
+
+<category>
+<pattern>GK *</pattern>
+<template><srai>GK</srai></template>
+</category>
+
+<category>
+<pattern>* GK *</pattern>
+<template><srai>GK</srai></template>
+</category>
+
+</aiml>
